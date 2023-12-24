@@ -1,0 +1,29 @@
+2023-12-23 19:01:49 INFO Configuration:
+---------------------+--------------------------
+Param                |           Value          
+---------------------+--------------------------
+tree                 |           False          
+proj                 |           False          
+partial              |           False          
+mode                 |           train          
+path                 | exp/en_ptb.bert-base/model
+device               |             0            
+seed                 |             1            
+threads              |            16            
+batch_size           |           5000           
+local_rank           |            -1            
+verbose              |           True           
+Parser               | <class 'diaparser.parsers.biaffine_dependency.BiaffineDependencyParser'>
+feat                 |           bert           
+build                |           True           
+punct                |           False          
+max_len              |           None           
+buckets              |            32            
+train                | /Users/danialaliev/workspace/nlp_task/train_dep.txt
+dev                  | /Users/danialaliev/workspace/nlp_task/dev_dep.txt
+test                 | /Users/danialaliev/workspace/nlp_task/test_dep.txt
+embed                |           None           
+unk                  |            unk           
+bert                 |      bert-base-cased     
+---------------------+--------------------------
+
