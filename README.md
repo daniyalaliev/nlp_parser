@@ -1,6 +1,7 @@
 # Парсинг составляющих
 
 Для парсинга составляющих былв взять модель Berkeley Neural Parser - https://github.com/nikitakit/self-attentive-parse
+
 Статья https://arxiv.org/pdf/1805.01052.pdf
 
 
