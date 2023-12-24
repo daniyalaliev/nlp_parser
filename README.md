@@ -12,6 +12,6 @@ Recall=94.05, Precision=95.09, FScore=94.57, CompleteMatch=46.36
 
 https://drive.google.com/file/d/1yeZrGLqXMSg0mjE5EpMcSk5NaUpuUAaN/view?usp=sharing
 
-Результаты парсинга на тест лежат в файле con_task/results/results.txt
+Выход модели на тестовых данных лежат в файле con_task/results/results.txt
 
  
