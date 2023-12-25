@@ -21,7 +21,10 @@ https://drive.google.com/file/d/1yeZrGLqXMSg0mjE5EpMcSk5NaUpuUAaN/view?usp=shari
 
 Статья https://arxiv.org/pdf/1911.03875.pdf
 
-Результат на тестововых данных UAS: 95.57
+Результат на тестововых данных:
+
+best test W. Punct: ucorr: 53887, lcorr: 52306, total: 56684, uas: 95.07%, las: 92.28%, ucm: 57.08%, lcm: 38.82%
+best test Wo Punct: ucorr: 47682, lcorr: 46101, total: 49893, uas: 95.57%, las: 92.40%, ucm: 60.64%, lcm: 40.40% 
 
 Обученная модель:
 
